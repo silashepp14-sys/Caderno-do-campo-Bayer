@@ -1,0 +1,29 @@
+CADERNO DE CAMPO 26/27 — como instalar no iPad (uma vez só, com internet)
+
+1) Publicar (no computador, ~5 min, grátis)
+   - Crie uma conta em github.com (se ainda não tiver).
+   - Clique em "New repository", nome: caderno-campo, marque "Public", crie.
+   - Na página do repositório: "uploading an existing file" e arraste TODOS os arquivos desta pasta
+     (index.html, sw.js, manifest.webmanifest e os 3 ícones). Clique em "Commit changes".
+   - Vá em Settings > Pages > Branch: "main" / pasta "/ (root)" > Save.
+   - Em 1–2 minutos o endereço aparece: https://SEU-USUARIO.github.io/caderno-campo/
+
+2) Instalar no iPad
+   - Abra esse endereço no SAFARI (tem que ser o Safari).
+   - Toque em Compartilhar > "Adicionar à Tela de Início".
+   - Abra o app pelo ícone novo UMA vez ainda com internet. Pronto: daqui em diante funciona sem sinal.
+   - Teste: ative o modo avião e abra o ícone.
+
+3) No campo
+   - "+ Avaliação": nome (ex.: 14 DAA), data e variáveis.
+   - Toque na parcela, lance as notas (os botões 0–100 agilizam) e use "Próxima" para seguir o caminhamento.
+   - Tudo salva sozinho no iPad a cada toque.
+
+4) Depois do campo (IMPORTANTE)
+   - "Exportar e ajustes" > "Planilha deste protocolo (.csv)": abre no Excel/Numbers.
+   - Faça também "Cópia de segurança (.json)" e guarde no Arquivos/iCloud/e-mail.
+     Os dados vivem só neste iPad; se o app for apagado, só a cópia recupera.
+   - A cópia .json também serve para passar os dados para outro iPad ("Restaurar cópia").
+
+Atenção: use sempre o ícone da Tela de Início, não a aba do Safari — são armazenamentos separados.
+Se eu mudar o app (novos tratamentos etc.), basta subir o novo index.html no GitHub; os dados lançados continuam.
